@@ -8,7 +8,7 @@
 <body align="center">
     <h1>Trade Details:</h1>
     <div class="container">
-        <form>
+        <form action="./store">
             <div class="form-group">
                 <label>Today's Date:</label>
                 <input type="date" class="form-control datepicker">

@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/trade',function(){
    return view('trade');
 });
+Route::get('/store',function(){
+    return ("Success..!");
+});
